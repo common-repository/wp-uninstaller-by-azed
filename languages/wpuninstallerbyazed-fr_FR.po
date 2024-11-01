@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-07-19 15:52+0200\n"
+"PO-Revision-Date: 2016-07-19 15:52+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-uninstaller-by-azed.php:38
+msgid "Uninstall Wordpress"
+msgstr "Désinstaller Wordpress"
+
+#: wp-uninstaller-by-azed.php:77
+msgid "Wordpress Uninstaller by Azed"
+msgstr "Wordpress Uninstaller by Azed"
+
+#: wp-uninstaller-by-azed.php:90
+msgid "Your Wordpress Intallation has been succefully deleted !"
+msgstr "Votre installation de Wordpress a été supprimée !"
+
+#: wp-uninstaller-by-azed.php:93
+msgid "You can't complete this action. Please try again."
+msgstr "Vous ne pouvez pas terminer cette action. Merci de réessayer."
+
+#: wp-uninstaller-by-azed.php:100
+msgid "Are you sure you want to delete those tables and uninstall your Wordpress ?"
+msgstr "Êtes-vous sûr de vouloir supprimer ces tables et de désinstaller Wordpress ?"
+
+#: wp-uninstaller-by-azed.php:104
+#, php-format
+msgid "Do you want to delete the folder \"%s\" located in \"%s\" ?"
+msgstr "Voulez vous supprimer le dossier \"%s\" situé dans \"%s\" ?"
+
+#: wp-uninstaller-by-azed.php:105
+msgid "Yes, i'm sure !"
+msgstr "Oui, je suis sûr !"
+
+#: wp-uninstaller-by-azed.php:110
+msgid "Select tables to delete :"
+msgstr "Sélectionnez les tables à supprimer :"
+
+#: wp-uninstaller-by-azed.php:124
+msgid "Delete those tables"
+msgstr "Supprimer ces tables"
+
+#: wp-uninstaller-by-azed.php:130
+msgid "You don't have access to this plugin !."
+msgstr "Vous n'avez pas accès à ce plugin !"
+
+#~ msgid "Delete top containing folder \"%s\" ?"
+#~ msgstr "Supprimer le dossier conteneur \"%s\" ?"
